@@ -22,8 +22,8 @@ I then expanded this basic framework to include the servo motor and speaker head
 MusicBox2.ino
 
 Here are two video's of the music box in action:
-Tchaikovsky's Swan Lake:
-Star War's Theme:
+Tchaikovsky's Swan Lake:https://drive.google.com/file/d/1SDtanDW2EF9xu3KOIvH1cm2Td3b8dWyg/view?usp=sharing
+Star War's Theme: https://drive.google.com/file/d/1GogaMLaw0csEqe0OMecpfb8omjKMvHu1/view?usp=sharing
 
 I got the melody and noteDuration for the Star War's theme from a previous lab. I found a online sheet of Tachaikovsky's Swan Lake(https://www.music-scores.com/midi.php?sheetmusic=Tchaikovsky_Swan_Lake_easy_piano) and
 converted it to the arduino format using online refferences(https://jythonmusic.me/ch-2-elements-of-music-and-code/). 
