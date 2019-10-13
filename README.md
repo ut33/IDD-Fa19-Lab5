@@ -30,3 +30,4 @@ converted it to the arduino format using online refferences(https://jythonmusic.
 (I modified the pitches.h file to include a "rest" defination)
 
 Here are some photos:
+(IMG_1278.jpg)
