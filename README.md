@@ -29,5 +29,4 @@ I got the melody and noteDuration for the Star War's theme from a previous lab. 
 converted it to the arduino format using online refferences(https://jythonmusic.me/ch-2-elements-of-music-and-code/). 
 (I modified the pitches.h file to include a "rest" defination)
 
-Here are some photos:
-(IMG_1278.jpg)
+Photos are included in this repository
